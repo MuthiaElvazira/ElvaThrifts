@@ -1,4 +1,4 @@
-# MuthiaTest01 — ElvaThrift
+# Muvazira — ElvaThrift
 
 Simple Next.js marketplace skeleton "ElvaThrift" (Muvazira Preloved) built with Next.js App Router, Tailwind CSS, and Framer Motion.
 
@@ -11,4 +11,3 @@ pnpm install # or npm install
 pnpm dev
 ```
 
-This project is ready to push to GitHub and deploy to Vercel.
